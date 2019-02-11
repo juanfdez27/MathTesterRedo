@@ -9,6 +9,10 @@ public class Main {
         int firstNumber;
         int secondNumber;
 
+        firstWord = "play";
+        secondWord = "house";
+        firstNumber = 2;
+        secondNumber = 4;
         
     }
 }
